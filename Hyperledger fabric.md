@@ -1,5 +1,4 @@
-# HYPERLEDGER FABRIC 
-
+# HYPERLEDGER ledger
 **Hyperledger Fabric is a modular, open-source blockchain framework, part of the Hyperledger project hosted by the Linux Foundation, designed for enterprise use cases, offering a permissioned network and focus on privacy and scalability.**
 ![image](https://github.com/user-attachments/assets/91fa2ff5-1ef8-4a16-b823-c5909fd48c88)
 
